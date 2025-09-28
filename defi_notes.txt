@@ -1,0 +1,3 @@
+Decentralized finance (DeFi) enables peer-to-peer lending, borrowing, and trading without intermediaries.
+Smart contracts on Ethereum and other blockchains automate financial agreements.
+Liquidity pools provide capital for decentralized exchanges and earn fees.
