@@ -1,3 +1,6 @@
 Decentralized finance (DeFi) enables peer-to-peer lending, borrowing, and trading without intermediaries.
 Smart contracts on Ethereum and other blockchains automate financial agreements.
 Liquidity pools provide capital for decentralized exchanges and earn fees.
+Governance tokens give holders voting rights in protocol decisions.
+Stablecoins aim to maintain a peg to fiat currencies, providing stability.
+Risk management strategies are essential due to volatility and smart-contract risk.
